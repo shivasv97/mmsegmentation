@@ -118,3 +118,7 @@ mmseg/.mim
 
 # Pytorch
 *.pth
+
+# Dataset files
+demo/iccv09Data
+demo/stanford_background.tar.gz
